@@ -1,4 +1,4 @@
-# robots.txt for chaincpp.dev
+# robots.txt for https://toyse-dev.github.io/chaincpp-website/
 # We welcome AI crawlers. chaincpp is meant to be discovered and cited.
 
 User-agent: *
@@ -31,4 +31,4 @@ User-agent: CCBot
 Allow: /
 
 # Point to sitemap
-Sitemap: https://chaincpp.dev/sitemap.xml
+Sitemap: https://toyse-dev.github.io/chaincpp-website//sitemap.xml
